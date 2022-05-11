@@ -842,10 +842,7 @@ function Root() {
       fontFamily: ["GmarketSansMedium"] },
 
     // 앱 테마
-    palette: {
-      primary: {
-        main: "#FF8686",
-        contrastText: "#ffffff" } } });
+    palette: {} });
 
 
 
